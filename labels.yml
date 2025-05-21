@@ -1,7 +1,7 @@
 owners:
   - name: justalemon
     is_org: false
-    token: LEMON_TOKEN
+    token: PERSONAL_TOKEN
   - name: LemonUIbyLemon
     is_org: true
     token: LEMONUI_TOKEN
