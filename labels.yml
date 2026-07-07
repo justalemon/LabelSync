@@ -89,6 +89,9 @@ custom:
   - name: "status: blocked"
     description: "There is another project preventing this fix or feature implementation"
     color: "0053C0"
+  - name: "status: superseded"
+    description: "Another PR/Issue replaced this PR/Issue"
+    color: "0053C0"
 
   - name: "type: bug"
     description: "This is a bug"
