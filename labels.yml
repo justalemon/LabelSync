@@ -27,6 +27,8 @@ updates:
     target: "status: won't fix"
   - current: "status: wont fix"
     target: "status: won't fix"
+  - current: "dependency"
+    target: "type: dependencies"
   - current: "dependencies"
     target: "type: dependencies"
   - current: "status: ready to merge"
