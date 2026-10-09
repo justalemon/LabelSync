@@ -43,6 +43,8 @@ updates:
     target: "priority: p5 needs triage"
   - current: "hacktoberfest"
     delete: true
+  - current: "javascript"
+    delete: true
 
 custom:
   - name: "priority: p0 critical"
