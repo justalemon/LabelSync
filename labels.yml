@@ -45,6 +45,8 @@ updates:
     delete: true
   - current: "javascript"
     delete: true
+  - current: "accessibility"
+    delete: true
 
 custom:
   - name: "priority: p0 critical"
